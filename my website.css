@@ -1,0 +1,21 @@
+ body{}
+ 
+ .carousel-caption h1{
+
+    margin-bottom:40px;
+    font-size:4rem;
+ }
+
+ .carousel-item img{
+
+   opacity:0.8;
+ }
+ 
+ .card img:hover{
+      
+   background-image:url('main\ course\ resized.jpg') no-repeat center center/cover;
+   color:blue;
+
+
+
+ }
